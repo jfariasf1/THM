@@ -1,6 +1,6 @@
 <?PHP 
 
-$retval = "";1
+$retval = "";
 
 $garbage = system("hostname",$retval);
 
