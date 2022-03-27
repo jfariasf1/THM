@@ -1,1 +1,1 @@
-<? echo "".shell_exec("hostname").""; ?>
+<?PHP echo "".shell_exec("hostname").""; ?>
